@@ -87,8 +87,8 @@ nav ul {
 nav ul li {
     margin: 0px;
     display: inline-block;
-    float: left;
     background-color: #620277;
+    float: left;
 }
 
 /* Styling the links */
