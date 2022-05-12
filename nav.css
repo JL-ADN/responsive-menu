@@ -4,7 +4,7 @@ header {
     background: #41077e;
     font-size: 22px;
     line-height: 32px;
-    color: lightpink;
+    color: white;
     margin: 0;
     padding: 0;
     word-wrap: break-word !important;
@@ -13,22 +13,22 @@ header {
 header h1 {
     font-size: 60px;
     text-align: center;
-    color: lightpink;
+    color: white;
 }
 
 header h3 {
     font-size: 30px;
     line-height: 34px;
     text-align: center;
-    color: lightpink;
+    color: white;
 }
 
 header h3 a {
-    color: lightpink;
+    color: white;
 }
 
 header a {
-    color: lightpink;
+    color: white;
 }
 
 header h1 {
@@ -87,7 +87,7 @@ nav ul {
 nav ul li {
     margin: 0px;
     display: inline-block;
-    background-color: #620277;
+    background-color: lightslategray;
     float: left;
 }
 
@@ -95,7 +95,7 @@ nav ul li {
 nav a {
     display: block;
     padding: 14px 20px;
-    color: lightpink;
+    color: white;
     font-size: 17px;
     text-decoration: none;
 }
@@ -185,7 +185,7 @@ li>a:only-child:after {
         align-items: center;
         background-color: #254441;
         padding: 14px 20px;
-        color: lightpink;
+        color: white;
         font-size: 17px;
         text-decoration: none;
         border: none;
@@ -225,7 +225,7 @@ li>a:only-child:after {
     nav ul ul a,
     nav ul ul ul a {
         padding: 14px 20px;
-        color: lightpink;
+        color: white;
         font-size: 17px;
     }
 
@@ -239,7 +239,7 @@ li>a:only-child:after {
     nav ul ul {
         float: none;
         position: static;
-        color: lightpinkfff;
+        color: whitefff;
         /* has to be the same number as the "line-height" of "nav a" */
     }
 
